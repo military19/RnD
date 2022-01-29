@@ -1,3 +1,0 @@
-This is new experimental file.
-Com'on. This could be experimental file..But it's wil fail to download.
-Okay.. That's Okay..Try again using Git GUI...
